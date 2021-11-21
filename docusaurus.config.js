@@ -2,7 +2,7 @@ module.exports = {
   title: "Abhinav",
   tagline: "Learning is a Lifelong Process",
   url: "https://Abhi6722.github.io",
-  baseUrl: "/portfolio/",
+  baseUrl: "/",
   //onBrokenLinks: "throw",
   //onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
