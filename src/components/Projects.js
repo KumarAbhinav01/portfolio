@@ -41,7 +41,7 @@ const Projects = () => {
       title: "Toodle Meet",
       github: "https://github.com/Abhi6722/Toodle-Meet",
       url: "https://toodlemeet.abhi6722.in",
-      image: "img/toodle-meet.jpg",
+      image: "img/toodle-meet.png",
       index: 3,
     },
   ];
