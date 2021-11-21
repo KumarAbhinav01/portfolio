@@ -4,44 +4,44 @@ import Translate from "@docusaurus/Translate";
 const Projects = () => {
   const works = [
     {
-      stack: ["react", "eCommerce", "React hooks"],
+      stack: ["Covid", "Mobile APP", "APIs"],
       description:
-        "Cozy Space is an online furniture store for you to design your dream home. You can easily find your favorite piece from our various morden furnitures by using the filter function. It is built with React, React hooks(useReduce and useContext) are utlized to manage the state.",
-      title: "Cozy Space",
-      github: "https://github.com/HaochenQ/React-Furniture-Store",
-      url: "https://romantic-brown-45acd5.netlify.app/",
-      image: "img/furniture-store.png",
+        "This is a Covid Resources app which goals to provide all essentail resources and services regarding COVID-19 at a single place. In this app we have listed the resources of different states of India and people who are in need can simply come and search in their locality and can contact them. Our app covid resources focuses on providing accurate data to the users.",
+      title: "Covid Resources",
+      github: "https://github.com/Abhi6722/covid_resources",
+      url: "https://github.com/Abhi6722/covid_resources/blob/main/App/Covid_Resources.apk",
+      image: "img/cr.png",
       index: 0,
     },
 
     {
-      stack: ["react", "recipe", "Restful API"],
+      stack: ["Python", "Jupyter", "Restful API"],
       description:
-        "Find the recipe you need on this recipe web app, simply by typing in the keywords like 'beef soap' or 'korean food'. Follow the instructions and make food for you and your family.",
-      title: "Find Your Recipe",
-      github: "https://github.com/HaochenQ/React-Furniture-Store",
-      url: "https://recipe-app.haochenq.vercel.app/",
-      image: "img/Recipe-hub.png",
+        "The main function of the app is to recommend movies based on our interest. This application provides all the details of the requested movie such as overview, genre, release date, rating, runtime, top cast, reviews, recommended movies, etc.",
+      title: "Machine Learning Prediction Model",
+      github: "https://github.com/Abhi6722/Predictor",
+      url: "https://still-coast-69612.herokuapp.com/",
+      image: "img/ml.png",
       index: 1,
     },
     {
-      stack: ["Django", "Blog System", "Backend"],
+      stack: ["Tailwind CSS", "NextJs", "HTML"],
       description:
-        "This is a blog system where you could create and update your account, post and update your own content and view other people's posts. This project is built with Django.",
-      title: "Django Blog",
-      github: "https://github.com/HaochenQ/Django-blog",
-      url: "https://quiet-escarpment-41189.herokuapp.com/",
-      image: "img/django-blog.png",
+        "A Google clone built using NextJs and Tailwind CSS. You search for anything by entering the search query in the search bar. There after you can click on the link and visit the website.",
+      title: "Toodle",
+      github: "https://github.com/Abhi6722/toodle",
+      url: "https://toodle-search.netlify.app",
+      image: "img/toodle.png",
       index: 2,
     },
     {
-      stack: ["Mobile APP", "React Native"],
+      stack: ["GO", "TypeScript", "JavaScript"],
       description:
-        "DoneWithIt is a cross-platform mobile application built with React Native(expo). It is a place where you can make your old staff become valuable again or get good products at preferential prices.",
-      title: "Done With It",
-      github: "https://github.com/HaochenQ/DoneWithIt",
-      url: "https://expo.io/@haochen/projects/DoneWithIt",
-      image: "img/APP.jpg",
+        "Toodle Meet is a set of Open Source projects which empower users to use and deploy video conferencing platforms with state-of-the-art video quality and features. Using Toodle Meet is straightforward, as it's browser based. Head over to toodlemeet.abhi6722.in and give it a try. It's anonymous, scalable and free to use. All browsers are supported!",
+      title: "Toodle Meet",
+      github: "https://github.com/Abhi6722/Toodle-Meet",
+      url: "https://toodlemeet.abhi6722.in",
+      image: "img/toodle-meet.jpg",
       index: 3,
     },
   ];
