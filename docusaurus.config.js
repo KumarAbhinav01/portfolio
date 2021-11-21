@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: "/",
   //onBrokenLinks: "throw",
   //onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "https://avatars.githubusercontent.com/u/62201123?v=4",
   organizationName: "Abhi6722", // Usually your GitHub org/user name.
   projectName: "portfolio", // Usually your repo name.
   stylesheets: ["https://fonts.font.im/css?family=Raleway:500,700"],
@@ -14,7 +14,7 @@ module.exports = {
       title: "Abhinav",
       logo: {
         alt: "My Site Logo",
-        src: "https://abhi6722.in/wp-content/uploads/2021/01/Abhinav-Kumar-140x140.png",
+        src: "https://avatars.githubusercontent.com/u/62201123?v=4",
       },
       items: [
         // {

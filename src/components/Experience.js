@@ -4,9 +4,9 @@ import { faAngleDoubleRight } from "@fortawesome/free-solid-svg-icons";
 import Translate from "@docusaurus/Translate";
 const experience = [
   {
-    company: "University of Melbourne",
-    position: "Master of Information Technology",
-    date: "July 2018 - July 2020 ",
+    company: "Hackers Hub",
+    position: "CEO",
+    date: "July 2018 - Present ",
     desc: {
       1: "Gained knowledge about fundamentals of the fields of Information Technology and Computer Science.",
       2: "In-depth understanding of modern cloud-driven network architecture with practice with Unimelb advanced cloud platform-Nectar.",
@@ -14,9 +14,9 @@ const experience = [
     },
   },
   {
-    company: "University of North Carolina",
-    position: "Exchange Graduate",
-    date: "August 2019 - December 2019 ",
+    company: "Toppers Launch",
+    position: "Web Master",
+    date: "August 2019 - Present ",
     desc: {
       1: "Learnt modern web development and got familar with several modern web framworks.",
       2: "Refined web development skills with hands on projects",
@@ -24,9 +24,9 @@ const experience = [
     },
   },
   {
-    company: "Psych Press",
-    position: "Front-End Developer Intern",
-    date: "March 2020 - July 2020 ",
+    company: "Crafty Hours",
+    position: "Founder",
+    date: "March 2020 - Present ",
     desc: {
       1: "Implemented reusable components which helped save development time and budget for our team.",
       2: "Involved in the planning and web design of a new project, designed the structure of the website with React and Material UI.",
