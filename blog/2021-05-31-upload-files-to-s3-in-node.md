@@ -1,10 +1,10 @@
 ---
 slug: upload-files-to-s3-iwth-node
 title: How to Upload Files to AWS S3 in Node.js?
-author: Haochen Qi
-author_title: Full Stack Developer
-author_url: https://github.com/HaochenQ
-author_image_url: https://avatars1.githubusercontent.com/u/44130343?s=400&u=a5a4729addf5c5b972d1d6220546273ff6e00eb4&v=4
+author: Abhinav Kumar
+author_title: Front End Engineer
+author_url: https://github.com/Abhi6722
+author_image_url: https://avatars.githubusercontent.com/u/62201123?v=4
 tags: [Node.js, AWS S3, Bucket Operation]
 ---
 

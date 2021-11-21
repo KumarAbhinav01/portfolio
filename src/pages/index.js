@@ -54,10 +54,8 @@ function Home() {
           <animated.div style={animatedTexts[1]}>
             <Typography variant="body1">
               <Translate>
-                A Melbourne University graduate who has a great passion for web
-                development. While keeping updated with the most recent
-                technologies, I always seek to improve and grow as a
-                professional full-stack web developer as well as a person.
+              Web developer from India. 
+              I have rich experience in website design and building, also I am good at wordpress. I love to talk with you about your unique idea.
               </Translate>{" "}
             </Typography>
           </animated.div>
@@ -117,12 +115,12 @@ function SocialLinks({ animatedProps, ...props }) {
           </Typography>
         </Grid>
         <Grid item>
-          <a href="https://www.linkedin.com/in/haochen-qi-a36393171/">
+          <a href="https://www.linkedin.com/in/Abhi6722">
             <FontAwesomeIcon icon={faLinkedin} />
           </a>
         </Grid>
         <Grid item>
-          <a href="https://github.com/HaochenQ">
+          <a href="https://github.com/abhi6722">
             <FontAwesomeIcon icon={faGithub} />
           </a>
         </Grid>

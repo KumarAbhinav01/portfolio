@@ -11,10 +11,10 @@ module.exports = {
   stylesheets: ["https://fonts.font.im/css?family=Raleway:500,700"],
   themeConfig: {
     navbar: {
-      title: "Haochen",
+      title: "Abhinav",
       logo: {
         alt: "My Site Logo",
-        src: "img/haochen.logo.svg",
+        src: "https://abhi6722.in/wp-content/uploads/2021/01/Abhinav-Kumar-140x140.png",
       },
       items: [
         // {
@@ -27,7 +27,7 @@ module.exports = {
         { to: "blog", label: "Blog", position: "right" },
 
         {
-          href: "https://github.com/HaochenQ",
+          href: "https://github.com/Abhi6722",
           label: "GitHub",
           position: "right",
         },
@@ -41,11 +41,11 @@ module.exports = {
           items: [
             {
               label: "Linkedin",
-              href: "https://www.linkedin.com/in/haochen-qi-a36393171/",
+              href: "https://www.linkedin.com/in/Abhi6722",
             },
             {
               label: "Facebook",
-              href: "https://www.facebook.com/haochen.qi.520",
+              href: "https://www.facebook.com/abhi.6722",
             },
           ],
         },
@@ -88,12 +88,12 @@ module.exports = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/HaochenQ",
+              href: "https://github.com/Abhi6722/portfolio",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Haochen. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Abhinav. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -125,7 +125,7 @@ module.exports = {
         label: "English",
       },
       "zh-cn": {
-        label: "中文",
+        label: "Hindi",
       },
     },
   },
