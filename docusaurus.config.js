@@ -1,13 +1,13 @@
 module.exports = {
   title: "Abhinav",
   tagline: "Learning is a Lifelong Process",
-  url: "https://haochenqi.com/",
-  baseUrl: "/",
+  url: "https://Abhi6722.github.io",
+  baseUrl: "/portfolio/",
   //onBrokenLinks: "throw",
   //onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  //organizationName: "Haochen", // Usually your GitHub org/user name.
-  projectName: "Haochen-Blog", // Usually your repo name.
+  organizationName: "Abhi6722", // Usually your GitHub org/user name.
+  projectName: "portfolio", // Usually your repo name.
   stylesheets: ["https://fonts.font.im/css?family=Raleway:500,700"],
   themeConfig: {
     navbar: {
