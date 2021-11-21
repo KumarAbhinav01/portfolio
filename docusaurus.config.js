@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Haochen",
+  title: "Abhinav",
   tagline: "Learning is a Lifelong Process",
   url: "https://haochenqi.com/",
   baseUrl: "/",
